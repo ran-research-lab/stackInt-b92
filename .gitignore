@@ -4,3 +4,5 @@
 !CMakeLists.txt
 !README.md
 !.gitignore
+!stackInt.cpp
+!stackInt.h
