@@ -15,5 +15,5 @@ TEST_CASE( "stackInt", "[stackInt]" ) {
     stackInt S;
     CHECK(S.empty() == true);
     // cree sus propias pruebas que validen el resto de las funciones
-    // (excepto la del destructor)
+    // (excepto el constructor y destructor)
 }
